@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0cQ2QiL9O0A=",
+  "dgSpecHash": "ia5SdJeeTxE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Enzo.hambruster\\source\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
+  "projectFilePath": "C:\\Users\\Enzo.hambruster\\source\\uc8\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Enzo.hambruster\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512",
     "C:\\Users\\Enzo.hambruster\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
@@ -21,5 +21,18 @@
     "C:\\Users\\Enzo.hambruster\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512",
     "C:\\Users\\Enzo.hambruster\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\9.0.0\\pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "O pacote 'MySqlConnector' 2.4.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-473q-m89c-ghf8",
+      "projectPath": "C:\\Users\\Enzo.hambruster\\source\\uc8\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Enzo.hambruster\\source\\uc8\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    }
+  ]
 }

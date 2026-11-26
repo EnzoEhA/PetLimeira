@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Enzo.hambruster\\source\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj": {}
+    "C:\\Users\\Enzo.hambruster\\source\\uc8\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Enzo.hambruster\\source\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj": {
+    "C:\\Users\\Enzo.hambruster\\source\\uc8\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Enzo.hambruster\\source\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
+        "projectUniqueName": "C:\\Users\\Enzo.hambruster\\source\\uc8\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
         "projectName": "PetLimeira",
-        "projectPath": "C:\\Users\\Enzo.hambruster\\source\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
+        "projectPath": "C:\\Users\\Enzo.hambruster\\source\\uc8\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
         "packagesPath": "C:\\Users\\Enzo.hambruster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Enzo.hambruster\\source\\repos\\PetLimeira\\PetLimeira\\obj\\",
+        "outputPath": "C:\\Users\\Enzo.hambruster\\source\\uc8\\repos\\PetLimeira\\PetLimeira\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Enzo.hambruster\\AppData\\Roaming\\NuGet\\NuGet.Config",

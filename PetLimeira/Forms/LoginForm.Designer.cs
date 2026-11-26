@@ -192,6 +192,7 @@
             lblEsqueci.Size = new Size(135, 16);
             lblEsqueci.TabIndex = 8;
             lblEsqueci.Text = "Esqueci minha senha";
+            lblEsqueci.Click += lblEsqueci_Click;
             // 
             // btnEntrar
             // 

@@ -99,5 +99,10 @@ namespace PetLimeira.Forms
                 ipSenha.IconChar = FontAwesome.Sharp.IconChar.EyeSlash;
             }
         }
+
+        private void lblEsqueci_Click(object sender, EventArgs e)
+        {
+            //Teste
+        }
     }
 }

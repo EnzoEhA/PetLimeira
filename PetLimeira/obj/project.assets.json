@@ -733,11 +733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Enzo.hambruster\\source\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
+      "projectUniqueName": "C:\\Users\\Enzo.hambruster\\source\\uc8\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
       "projectName": "PetLimeira",
-      "projectPath": "C:\\Users\\Enzo.hambruster\\source\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
+      "projectPath": "C:\\Users\\Enzo.hambruster\\source\\uc8\\repos\\PetLimeira\\PetLimeira\\PetLimeira.csproj",
       "packagesPath": "C:\\Users\\Enzo.hambruster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Enzo.hambruster\\source\\repos\\PetLimeira\\PetLimeira\\obj\\",
+      "outputPath": "C:\\Users\\Enzo.hambruster\\source\\uc8\\repos\\PetLimeira\\PetLimeira\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Enzo.hambruster\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1099,5 +1099,17 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'MySqlConnector' 2.4.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-473q-m89c-ghf8",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    }
+  ]
 }
